@@ -1,0 +1,23 @@
+{
+  "name": "inView",
+  "main": "inView.js",
+  "version": "1.0.0",
+  "authors": [
+    "Matt McCloskey <mattmccloskey@mac.com>"
+  ],
+  "description": "See if an element is in the view port",
+  "keywords": [
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
